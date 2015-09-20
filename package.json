@@ -1,0 +1,28 @@
+{
+  "name": "observ-thunk",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Wrap a listener to prevent multiple calls for identical values",
+  "license": "MIT",
+  "repository": "bendrucker/observ-thunk",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observ",
+    "thunk"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
