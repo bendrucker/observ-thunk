@@ -1,6 +1,6 @@
 # observ-thunk [![Build Status](https://travis-ci.org/bendrucker/observ-thunk.svg?branch=master)](https://travis-ci.org/bendrucker/observ-thunk)
 
-> Wrap a listener to prevent multiple calls for identical values
+> Wrap a listener function to prevent multiple calls for identical values
 
 
 ## Install
