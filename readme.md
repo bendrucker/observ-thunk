@@ -1,4 +1,4 @@
-# observ-thunk [![Build Status](https://travis-ci.org/bendrucker/observ-thunk.svg?branch=master)](https://travis-ci.org/bendrucker/observ-thunk)
+# observ-thunk [![Build Status](https://travis-ci.org/bendrucker/observ-thunk.svg?branch=master)](https://travis-ci.org/bendrucker/observ-thunk) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-thunk.svg)](https://greenkeeper.io/)
 
 > Wrap a listener function to prevent multiple calls for identical values
 
